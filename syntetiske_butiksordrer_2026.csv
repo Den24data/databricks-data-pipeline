@@ -1,0 +1,202 @@
+﻿ordre_id,ordre_dato,butik,produkt_id,produkt_navn,kategori,antal,stykpris,rabat_pct,kunde_id
+O0001,2026-08-05,Slagelse,P002,Havregryn,Kolonial,1,17.5,0,K018
+O0002,2026-09-14,Roskilde,P002,Havregryn,Kolonial,2,17.5,0,K004
+O0003,2026-07-30,Ringsted,P002,Havregryn,Kolonial,4,17.5,10,K026
+O0004,2026-08-27,Næstved,P007,Te,Drikkevarer,4,29.95,0,K021
+O0005,2026-08-05,Slagelse,P007,Te,Drikkevarer,6,29.95,0,K044
+O0006,2026-08-18,Ringsted,P002,Havregryn,Kolonial,2,17.5,0,K045
+O0007,2026-08-28,Ringsted,P005,Æbler,Frugt og grønt,1,25.0,5,K011
+O0008,2026-09-12,Slagelse,P005,Æbler,Frugt og grønt,6,25.0,15,K009
+O0009,2026-08-07,Ringsted,P001,Kaffe,Drikkevarer,4,59.95,0,K013
+O0010,2026-08-28,Næstved,P007,Te,Drikkevarer,5,29.95,0,K048
+O0011,2026-09-24,Næstved,P006,Ost,Mejeri,4,39.95,15,K010
+O0012,2026-07-21,Roskilde,P003,Mælk,Mejeri,4,14.95,5,K035
+O0013,2026-07-08,Slagelse,P004,Pasta,Kolonial,6,21.95,0,K041
+O0014,2026-07-09,Slagelse,P007,Te,Drikkevarer,5,29.95,10,K041
+O0015,2026-08-20,Roskilde,P004,Pasta,Kolonial,-2,21.95,0,K034
+O0016,2026-09-10,Næstved,P003,Mælk,Mejeri,4,14.95,15,K055
+O0017,2026-07-29,Slagelse,P007,Te,Drikkevarer,6,29.95,10,K064
+O0018,2026-07-15,Slagelse,P002,Havregryn,Kolonial,1,17.5,15,K021
+O0019,2026-08-19,Roskilde,P007,Te,Drikkevarer,2,29.95,10,K060
+O0020,2026-09-26,Ringsted,P005,Æbler,Frugt og grønt,1,25.0,15,K035
+O0021,2026-08-07,Roskilde,P006,Ost,Mejeri,2,39.95,0,K059
+O0022,2026-09-03,Slagelse,P001,Kaffe,Drikkevarer,5,59.95,10,K014
+O0023,2026-07-20,Næstved,P005,Æbler,Frugt og grønt,4,25.0,0,K001
+O0024,2026-07-03,Ringsted,P006,Ost,Mejeri,8,39.95,0,K040
+O0025,2026-07-31,Ringsted,P004,Pasta,Kolonial,1,21.95,0,K063
+O0026,2026-07-17,Roskilde,P002,Havregryn,Kolonial,3,17.5,10,K022
+O0027,2026-07-28,Slagelse,P005,Æbler,Frugt og grønt,7,25.0,15,K040
+O0028,2026-08-26,Roskilde,P007,Te,Drikkevarer,6,29.95,0,K032
+O0029,2026-08-13,Ringsted,P004,Pasta,Kolonial,2,21.95,10,K030
+O0030,2026-07-10,Ringsted,P004,Pasta,Kolonial,1,21.95,0,K009
+O0031,2026-07-10,Slagelse,P001,Kaffe,Drikkevarer,6,59.95,0,K063
+O0032,2026-09-12,Roskilde,P004,Pasta,Kolonial,3,21.95,0,K061
+O0033,2026-07-13,Ringsted,P007,Te,Drikkevarer,4,29.95,15,K056
+O0034,2026-08-22,Roskilde,P006,Ost,Mejeri,7,39.95,15,K007
+O0035,2026-08-21,Næstved,P002,Havregryn,Kolonial,1,17.5,0,K032
+O0036,2026-09-07,Roskilde,P004,Pasta,Kolonial,4,21.95,0,K055
+O0037,2026-08-29,Slagelse,P003,Mælk,Mejeri,5,14.95,0,K057
+O0038,2026-09-22,Ringsted,P002,Havregryn,Kolonial,1,-10.0,0,K031
+O0039,2026-09-01,Roskilde,P003,Mælk,Mejeri,7,14.95,0,K052
+O0040,2026-08-18,Ringsted,P001,Kaffe,Drikkevarer,3,59.95,5,K034
+O0041,2026-08-24,Roskilde,P008,Ris,Kolonial,5,24.5,0,K025
+O0042,2026-07-08,Ringsted,P005,Æbler,Frugt og grønt,4,25.0,15,K041
+O0043,2026-09-13,Roskilde,P001,Kaffe,Drikkevarer,1,59.95,10,K021
+O0044,2026-07-24,Ringsted,P001,Kaffe,Drikkevarer,2,59.95,10,K009
+O0045,2026-07-16,Slagelse,P004,Pasta,Kolonial,7,21.95,10,K006
+O0046,2026-09-23,Næstved,P002,Havregryn,Kolonial,7,17.5,0,K027
+O0047,2026-08-03,Roskilde,P006,Ost,Mejeri,4,39.95,0,K039
+O0048,2026-07-10,Ringsted,P008,Ris,Kolonial,6,24.5,5,K013
+O0049,2026-09-03,Næstved,P002,Havregryn,Kolonial,4,17.5,0,K045
+O0050,2026-08-17,Næstved,P002,Havregryn,Kolonial,4,17.5,0,K057
+O0051,2026-09-24,Næstved,P005,Æbler,Frugt og grønt,1,25.0,15,K014
+O0052,2026-07-15,Ringsted,P003,Mælk,Mejeri,5,14.95,15,K020
+O0053,2026-09-16,Slagelse,P005,Æbler,Frugt og grønt,5,25.0,15,K044
+O0054,2026-09-03,Roskilde,P004,Pasta,Kolonial,5,21.95,0,K007
+O0055,2026-08-05,Ringsted,P002,Havregryn,Kolonial,7,17.5,0,K043
+O0056,2026-07-21,Roskilde,P003,Mælk,Mejeri,5,14.95,10,K055
+O0057,2026-07-10,Slagelse,P001,Kaffe,Drikkevarer,2,59.95,10,K005
+O0058,2026-08-25,Slagelse,P006,Ost,Mejeri,3,39.95,0,K040
+O0059,2026-08-15,Slagelse,P006,Ost,Mejeri,1,39.95,15,K032
+O0060,2026-13-40,Roskilde,P002,Havregryn,Kolonial,6,17.5,10,K020
+O0061,2026-07-23,Roskilde,P004,Pasta,Kolonial,3,21.95,0,K023
+O0062,2026-09-24,Slagelse,P006,Ost,Mejeri,7,39.95,0,K021
+O0063,2026-07-05,Roskilde,P002,Havregryn,Kolonial,7,17.5,0,K026
+O0064,2026-08-09,Slagelse,P008,Ris,Kolonial,6,24.5,0,K004
+O0065,2026-08-12,Næstved,P004,Pasta,Kolonial,7,21.95,0,K036
+O0066,2026-09-25,Næstved,P006,Ost,Mejeri,7,39.95,0,K015
+O0067,2026-09-13,Næstved,P005,Æbler,Frugt og grønt,3,25.0,0,K014
+O0068,2026-08-10,Roskilde,P007,Te,Drikkevarer,6,29.95,10,K015
+O0069,2026-08-02,Ringsted,P007,Te,Drikkevarer,4,29.95,15,K056
+O0070,2026-08-16,Roskilde,P001,Kaffe,Drikkevarer,4,59.95,0,K043
+O0071,2026-08-08,Næstved,P006,Ost,Mejeri,2,39.95,15,K053
+O0072,2026-09-28,Næstved,P006,Ost,Mejeri,7,39.95,10,K017
+O0073,2026-09-24,Roskilde,P004,Pasta,Kolonial,7,21.95,15,K023
+O0074,2026-09-09,Ringsted,P005,Æbler,Frugt og grønt,7,25.0,0,K037
+O0075,2026-09-13,Næstved,P004,Pasta,Kolonial,7,21.95,5,K057
+O0076,2026-09-04,Roskilde,P008,Ris,Kolonial,4,24.5,15,K022
+O0077,2026-09-04,Næstved,P002,Havregryn,Kolonial,5,17.5,0,K031
+O0078,2026-07-26,Slagelse,P005,Æbler,Frugt og grønt,4,25.0,0,K006
+O0079,2026-09-17,Ringsted,P004,Pasta,Kolonial,8,21.95,5,K054
+O0080,2026-09-02,Roskilde,P004,Pasta,Kolonial,7,21.95,0,K019
+O0081,2026-08-24,Slagelse,P001,Kaffe,Drikkevarer,2,59.95,0,K060
+O0082,2026-07-16,Roskilde,P001,Kaffe,Drikkevarer,4,59.95,0,K060
+O0083,2026-09-17,Roskilde,P006,Ost,Mejeri,8,39.95,10,K058
+O0084,2026-08-27,Næstved,P003,Mælk,Mejeri,8,14.95,0,K036
+O0085,2026-08-05,Roskilde,P008,Ris,Kolonial,4,24.5,0,
+O0086,2026-08-12,Næstved,P004,Pasta,Kolonial,5,21.95,10,K011
+O0087,2026-07-30,Roskilde,P003,Mælk,Mejeri,3,14.95,15,K020
+O0088,2026-08-23,Roskilde,P004,Pasta,Kolonial,2,21.95,0,K060
+O0089,2026-07-27,Roskilde,P007,Te,Drikkevarer,1,29.95,5,K003
+O0090,2026-07-01,Næstved,P007,Te,Drikkevarer,8,29.95,0,K050
+O0091,2026-09-01,Slagelse,P007,Te,Drikkevarer,4,29.95,0,K056
+O0092,2026-08-19,Næstved,P008,Ris,Kolonial,1,24.5,15,K052
+O0093,2026-07-17,Ringsted,P003,Mælk,Mejeri,8,14.95,5,K004
+O0094,2026-07-18,Roskilde,P002,Havregryn,Kolonial,7,17.5,0,K007
+O0095,2026-08-11,Slagelse,P005,Æbler,Frugt og grønt,7,25.0,5,K042
+O0096,2026-08-05,Roskilde,P006,Ost,Mejeri,7,39.95,0,K011
+O0097,2026-09-08,Ringsted,P008,Ris,Kolonial,1,24.5,0,K029
+O0098,2026-07-04,Slagelse,P002,Havregryn,Kolonial,1,17.5,0,K003
+O0099,2026-07-17,Roskilde,P003,Mælk,Mejeri,4,14.95,15,K015
+O0100,2026-09-28,Næstved,P004,Pasta,Kolonial,8,21.95,0,K022
+O0101,2026-08-09,Ringsted,P002,Havregryn,Kolonial,3,17.5,10,K004
+O0102,2026-08-20,Slagelse,P005,Æbler,Frugt og grønt,7,25.0,0,K032
+O0103,2026-09-26,Ringsted,P002,Havregryn,Kolonial,5,17.5,10,K006
+O0104,2026-09-23,Næstved,P006,Ost,Mejeri,7,39.95,0,K065
+O0105,2026-08-23,Roskilde,P006,Ost,Mejeri,1,39.95,0,K056
+O0106,2026-09-29,Slagelse,P006,Ost,Mejeri,8,39.95,5,K023
+O0107,2026-08-29,Roskilde,P005,Æbler,Frugt og grønt,8,25.0,15,K035
+O0108,2026-07-12,Næstved,P006,Ost,Mejeri,4,39.95,5,K032
+O0109,2026-08-13,Ringsted,P008,Ris,Kolonial,7,24.5,5,K042
+O0110,2026-07-28,Næstved,P003,Mælk,Mejeri,8,14.95,0,K044
+O0111,2026-09-10,Ringsted,P005,Æbler,Frugt og grønt,5,25.0,10,K025
+O0112,2026-08-22,Roskilde,P002,Havregryn,Kolonial,4,17.5,10,K031
+O0113,2026-08-27,Ringsted,P008,Ris,Kolonial,8,24.5,0,K038
+O0114,2026-09-27,Slagelse,P004,Pasta,Kolonial,7,21.95,120,K048
+O0115,2026-08-24,Næstved,P008,Ris,Kolonial,6,24.5,0,K059
+O0116,2026-08-02,Slagelse,P005,Æbler,Frugt og grønt,5,25.0,0,K025
+O0117,2026-09-07,Slagelse,P006,Ost,Mejeri,2,39.95,0,K028
+O0118,2026-09-14,Næstved,P008,Ris,Kolonial,5,24.5,0,K025
+O0119,2026-08-16,Slagelse,P005,Æbler,Frugt og grønt,4,25.0,0,K002
+O0120,2026-07-06,Ringsted,P003,Mælk,Mejeri,5,14.95,10,K038
+O0121,2026-07-14,Ringsted,P003,Mælk,Mejeri,8,14.95,10,K037
+O0122,2026-08-26,Næstved,P008,Ris,Kolonial,8,24.5,0,K007
+O0123,2026-07-15,Ringsted,P005,Æbler,Frugt og grønt,8,25.0,5,K063
+O0124,2026-07-20,Slagelse,P002,Havregryn,Kolonial,1,17.5,10,K039
+O0125,2026-07-16,Roskilde,P002,Havregryn,Kolonial,4,17.5,10,K029
+O0126,2026-08-26,Næstved,P007,Te,Drikkevarer,8,29.95,10,K055
+O0127,2026-09-17,Ringsted,P005,Æbler,Frugt og grønt,1,25.0,0,K028
+O0128,2026-07-21,Slagelse,P005,Æbler,Frugt og grønt,2,25.0,0,K010
+O0129,2026-08-22,Roskilde,P003,Mælk,Mejeri,1,14.95,15,K061
+O0130,2026-07-30,Næstved,P005,Æbler,Frugt og grønt,1,25.0,15,K037
+O0131,2026-09-26,Slagelse,P008,Ris,Kolonial,2,24.5,0,K026
+O0132,2026-09-08,Slagelse,P007,Te,Drikkevarer,2,29.95,15,K020
+O0133,2026-07-10,Ringsted,P005,Æbler,Frugt og grønt,3,25.0,0,K040
+O0134,2026-07-16,Roskilde,P005,Æbler,Frugt og grønt,8,25.0,15,K039
+O0135,2026-09-03,Roskilde,P007,Te,Drikkevarer,5,29.95,5,K011
+O0136,2026-08-11,Næstved,P001,Kaffe,Drikkevarer,7,59.95,0,K012
+O0137,2026-09-25,Næstved,P004,Pasta,Kolonial,1,21.95,10,K006
+O0138,2026-09-05,Roskilde,P003,Mælk,Mejeri,8,14.95,0,K024
+O0139,2026-07-12,Roskilde,P007,Te,Drikkevarer,8,29.95,0,K053
+O0140,2026-09-24,Ringsted,P006,Ost,Mejeri,6,39.95,0,K043
+O0141,2026-08-06,Roskilde,P007,Te,Drikkevarer,8,29.95,10,K005
+O0142,2026-08-10,Næstved,P008,Ris,Kolonial,2,24.5,0,K015
+O0143,2026-09-23,Roskilde,P007,Te,Drikkevarer,1,29.95,5,K007
+O0144,2026-09-18,Roskilde,P004,Pasta,Kolonial,6,21.95,15,K057
+O0145,2026-08-04,Slagelse,P001,Kaffe,Drikkevarer,4,59.95,0,K057
+O0146,2026-07-04,Slagelse,P008,Ris,Kolonial,2,24.5,15,K021
+O0147,2026-09-09,Roskilde,P005,Æbler,Frugt og grønt,1,25.0,0,K029
+O0148,2026-07-16,Slagelse,P002,Havregryn,Kolonial,8,17.5,5,K038
+O0149,2026-08-31,Roskilde,P005,Æbler,Frugt og grønt,7,25.0,0,K059
+O0150,2026-07-25,Slagelse,P003,Mælk,Mejeri,7,14.95,0,K036
+O0151,2026-09-03,Næstved,P007,Te,Drikkevarer,6,29.95,0,K037
+O0152,2026-07-20,Roskilde,P005,Æbler,Frugt og grønt,8,25.0,10,K062
+O0153,2026-09-09,,P006,Ost,Mejeri,6,39.95,5,K042
+O0154,2026-09-12,Roskilde,P004,Pasta,Kolonial,4,21.95,0,K053
+O0155,2026-08-30,Roskilde,P001,Kaffe,Drikkevarer,6,59.95,5,K020
+O0156,2026-07-17,Næstved,P008,Ris,Kolonial,1,24.5,0,K057
+O0157,2026-07-02,Slagelse,P002,Havregryn,Kolonial,8,17.5,5,K020
+O0158,2026-08-03,Næstved,P002,Havregryn,Kolonial,8,17.5,10,K051
+O0159,2026-09-25,Roskilde,P002,Havregryn,Kolonial,6,17.5,0,K063
+O0160,2026-07-31,Næstved,P001,Kaffe,Drikkevarer,2,59.95,0,K012
+O0161,2026-09-20,Ringsted,P007,Te,Drikkevarer,2,29.95,5,K022
+O0162,2026-07-06,Næstved,P005,Æbler,Frugt og grønt,1,25.0,0,K038
+O0163,2026-08-25,Slagelse,P006,Ost,Mejeri,6,39.95,0,K053
+O0164,2026-07-23,Ringsted,P003,Mælk,Mejeri,3,14.95,10,K049
+O0165,2026-09-13,Slagelse,P004,Pasta,Kolonial,8,21.95,0,K060
+O0166,2026-08-02,Ringsted,P005,Æbler,Frugt og grønt,8,25.0,5,K037
+O0167,2026-08-26,Næstved,P003,Mælk,Mejeri,2,14.95,10,K039
+O0168,2026-08-28,Næstved,P007,Te,Drikkevarer,5,29.95,0,K050
+O0169,2026-07-31,Roskilde,P008,Ris,Kolonial,2,24.5,10,K046
+O0170,2026-07-03,Roskilde,P005,Æbler,Frugt og grønt,5,25.0,0,K002
+O0171,2026-08-06,Slagelse,P001,Kaffe,Drikkevarer,8,59.95,10,K046
+O0172,2026-09-18,Næstved,P004,Pasta,Kolonial,4,21.95,15,K018
+O0173,2026-08-09,Roskilde,P002,Havregryn,Kolonial,1,17.5,0,K047
+O0174,2026-08-07,Næstved,P003,Mælk,Mejeri,2,14.95,15,K054
+O0175,2026-07-17,Næstved,P003,Mælk,Mejeri,4,14.95,10,K065
+O0176,2026-08-02,Roskilde,P005,Æbler,Frugt og grønt,3,25.0,0,K044
+O0177,2026-07-10,Slagelse,P002,Havregryn,Kolonial,8,17.5,0,K051
+O0178,2026-08-20,Ringsted,P006,Ost,Mejeri,2,39.95,0,K016
+O0179,2026-09-25,Næstved,P008,Ris,Kolonial,6,24.5,10,K049
+O0180,2026-09-25,Slagelse,P006,Ost,Mejeri,2,39.95,5,K004
+O0181,2026-09-21,Ringsted,P006,Ost,Mejeri,4,39.95,15,K060
+O0182,2026-07-15,Slagelse,P005,Æbler,Frugt og grønt,7,25.0,0,K005
+O0183,2026-07-15,Ringsted,P005,Æbler,Frugt og grønt,8,25.0,0,K018
+O0184,2026-08-17,Roskilde,P007,Te,Drikkevarer,8,29.95,10,K020
+O0185,2026-09-01,Roskilde,P007,Te,Drikkevarer,2,29.95,0,K005
+O0186,2026-08-26,Roskilde,P006,Ost,Mejeri,4,39.95,0,K047
+O0187,2026-09-08,Næstved,P002,Havregryn,Kolonial,6,17.5,0,K051
+O0188,2026-07-16,Roskilde,P005,Æbler,Frugt og grønt,4,25.0,0,K028
+O0189,2026-08-12,Slagelse,P001,Kaffe,Drikkevarer,1,59.95,0,K027
+O0190,2026-09-14,Slagelse,P002,Havregryn,Kolonial,4,17.5,0,K043
+O0191,2026-08-05,Slagelse,P003,Mælk,Mejeri,1,14.95,0,K033
+O0192,2026-09-23,Ringsted,P003,Mælk,Mejeri,2,14.95,0,K002
+O0193,2026-09-14,Næstved,P006,Ost,Mejeri,4,39.95,0,K023
+O0194,2026-07-17,Roskilde,P005,Æbler,Frugt og grønt,1,25.0,10,K015
+O0195,2026-08-27,Næstved,P002,Havregryn,Kolonial,8,17.5,10,K014
+O0196,2026-09-17,Ringsted,P008,Ris,Kolonial,4,24.5,15,K039
+O0197,2026-07-08,Roskilde,P008,Ris,Kolonial,1,24.5,5,K055
+O0198,2026-09-30,Roskilde,P002,Havregryn,Kolonial,8,17.5,0,K011
+O0199,2026-07-09,Slagelse,P006,Ost,Mejeri,3,39.95,0,K042
+O0200,2026-08-28,Roskilde,P007,Te,Drikkevarer,5,29.95,0,K015
+O0023,2026-07-20,Næstved,P005,Æbler,Frugt og grønt,4,25.0,0,K001
